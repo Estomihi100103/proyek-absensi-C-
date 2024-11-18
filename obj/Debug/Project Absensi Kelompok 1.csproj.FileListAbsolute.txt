@@ -1,0 +1,12 @@
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\obj\Debug\Project Absensi Kelompok 1.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\obj\Debug\Project_Absensi_Kelompok_1.FormArray.resources
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\obj\Debug\Project_Absensi_Kelompok_1.Properties.Resources.resources
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\obj\Debug\Project Absensi Kelompok 1.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\obj\Debug\Project Absensi Kelompok 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\bin\Debug\Project Absensi Kelompok 1.exe.config
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\bin\Debug\Project Absensi Kelompok 1.exe
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\bin\Debug\Project Absensi Kelompok 1.pdb
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\obj\Debug\Project Absensi Kelompok 1.exe
+C:\Users\ASUS TUF\Documents\Project Pengpro\Project Absensi Kelompok 1\obj\Debug\Project Absensi Kelompok 1.pdb
+C:\Users\estop\Downloads\Project Absensi Kelompok 1\obj\Debug\Project Absensi Kelompok 1.exe
+C:\Users\estop\Downloads\Project Absensi Kelompok 1\obj\Debug\Project Absensi Kelompok 1.pdb
